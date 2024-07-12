@@ -1,0 +1,6 @@
+@_4_AsNoTracking_HostAddress = http://localhost:5104
+
+GET {{_4_AsNoTracking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

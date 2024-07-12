@@ -1,0 +1,6 @@
+@_8_ShadowProperties_HostAddress = http://localhost:5200
+
+GET {{_8_ShadowProperties_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
